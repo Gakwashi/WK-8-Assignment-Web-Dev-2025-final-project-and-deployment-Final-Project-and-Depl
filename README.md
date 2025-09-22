@@ -18,7 +18,7 @@ A responsive multipage website showcasing three different skincare routines with
 - **Semantic HTML5 Structure**
 - **CSS3 Animations & Transitions**
 
-## 📁 File Structure
+## File Structure
 skincare-website/
 ├── index.html # Homepage with skincare routines
 ├── about.html # About page with company information
