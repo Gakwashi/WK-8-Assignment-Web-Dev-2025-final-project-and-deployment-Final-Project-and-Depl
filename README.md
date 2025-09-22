@@ -7,7 +7,7 @@ A responsive multipage website showcasing three different skincare routines with
 - **Purpose:** Showcase skincare routines and provide skincare education
 - **Technologies Used:** HTML5, CSS3, JavaScript
 - **Live URL:** glowguideskin.netlify.app
-
+  
 ##  Features
 - **3 Responsive Pages:** Home, About, Contact
 - **Mobile-First Design:** Works perfectly on all devices
